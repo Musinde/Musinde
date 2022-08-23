@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Musinde James
+- 👋 Hi, I’m James Musinde
 - 👀 I’m interested in Database Administration, Web Development, Cyber Security and Pentesting
 - 🌱 I’m currently learning Software Engineering and Pentesting
 - 💞️ I’m looking to collaborate on Pentesting and Software Enginnering
